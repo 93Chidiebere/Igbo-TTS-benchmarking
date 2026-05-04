@@ -120,7 +120,7 @@ Evaluation setup:
 To reproduce results:
 
 Download dataset from Google Drive
-Link: 
+Link: https://drive.google.com/drive/folders/1siohiCmy9ZWC0yPiCRGpvqfNR-zFe5k0?usp=sharing
 
 ## Key Insights
 Multilingual models do not generalize to Igbo in zero-shot settings
