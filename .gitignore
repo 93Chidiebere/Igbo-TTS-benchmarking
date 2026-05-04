@@ -1,0 +1,17 @@
+hf_token.txt
+
+# Data
+*.csv
+*.json
+*.npy
+
+# ML artifacts
+cache/
+embeddings/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Audio (future safety)
+*.wav
+*.mp3
